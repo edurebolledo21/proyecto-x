@@ -174,7 +174,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<!-- <script setup lang="ts">
 useSeoMeta({
   title: "Alianza Shopping Club, LLC",
   ogTitle: "Alianza Shopping Club, LLC",
@@ -185,9 +185,9 @@ useSeoMeta({
   ogImage: "/ogImage.png",
   twitterCard: "summary_large_image",
 });
-</script>
+</script> -->
 
-<style>
+<!-- <style>
 .header-background {
   background-image: linear-gradient(
       180deg,
@@ -197,4 +197,4 @@ useSeoMeta({
     url("~/assets/img/grid.svg"), url("~/assets/img/imgAlianza.webp");
   background-size: auto, auto, cover;
 }
-</style>
+</style> -->
